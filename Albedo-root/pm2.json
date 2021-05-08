@@ -1,0 +1,11 @@
+{
+    "apps": [
+      {
+        "name": "Albedo",
+        "script": "albedo.py",
+        "interpreter": "python",
+        "interpreter_args": "-u"
+      }
+    ]
+  }
+  
